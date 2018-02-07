@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kavosh</string>
+    <string name="Barcode">Barcode</string>
+    <string name="Name">Name </string>
+    <string name="Family">Family </string>
+    <string name="Mobile">Mobile </string>
+    <string name="Email">Email </string>
+    <string name="Show">Show </string>
+    <string name="Save">Save </string>
+
+</resources>
